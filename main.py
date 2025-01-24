@@ -1,5 +1,5 @@
-from service.helper import get_greeting_wrapper
+from service.helper import urlify_string_wrapper
 
 if __name__ == "__main__":
-    '''Replace the below function call with the service function that you want to test'''
-    get_greeting_wrapper()
+    """Replace the below function call with the wrapper function that you want to test"""
+    urlify_string_wrapper()
