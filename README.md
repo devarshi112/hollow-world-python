@@ -1,3 +1,9 @@
+## Overview
+
+This project is a sandbox environment for experimenting with Python code.
+
+## Running Python code in VS Code
+
 To run the `main.py` and invoke the `helper.py` in Visual Studio Code (VS Code), follow these steps:
 
 ---
