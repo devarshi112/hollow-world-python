@@ -1,9 +1,5 @@
-from service.helper import get_greeting
-
-def main():
-    """Main method to invoke the helper functions."""
-    greeting = get_greeting()
-    print(greeting)
+from service.helper import get_greeting_wrapper
 
 if __name__ == "__main__":
-    main()
+    '''Replace the below function call with the service function that you want to test'''
+    get_greeting_wrapper()
